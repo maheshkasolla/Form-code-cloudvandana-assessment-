@@ -1,0 +1,41 @@
+body {
+    padding: 25px;
+}
+
+.title {
+    color: #5C6AC4;
+}
+
+.bg-container {
+    background-color: pink;
+    height: 100%;
+    width: 100%;
+    margin-top: 20px;
+    background-size: cover;
+}
+
+.heading {
+    text-align: center;
+}
+
+.form-container {
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.name_container {
+    display: flex;
+
+}
+
+.email-container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gender-container {
+    display: flex;
+
+}
